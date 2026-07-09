@@ -15,32 +15,22 @@ I am a passionate Flutter Developer based in Egypt, experienced in shipping appl
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  
-  <!-- Frameworks & Platforms -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  
-  <!-- Architecture & Tools -->
-  <img src="https://img.shields.io/badge/BLoC-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,android,apple,windows,firebase,git,vscode" alt="Karim's Tech Stack" />
+  </a>
 </p>
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimkhater0&show_icons=true&theme=radical" alt="karimkhater0's GitHub stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimkhater0&theme=radical" alt="karimkhater0's GitHub streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karimkhater0&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B" alt="karimkhater0's GitHub stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=karimkhater0&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B" alt="karimkhater0's GitHub streak" height="150" />
 </p>
 
 ### 🤝 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/karim-khater-37207626a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
