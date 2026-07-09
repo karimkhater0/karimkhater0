@@ -8,7 +8,7 @@ I am a passionate Flutter Developer based in Egypt, experienced in shipping appl
 
 - 🔭 **Currently focusing on:** Building scalable real estate and e-commerce solutions with clean architecture and BLoC.
 - 💻 **Experience highlights:** Developed mobile & Windows dashboard apps, integrated payment gateways (Paymob, Apple Pay), and handled complex push-notification deep-linking.
-- 🍎 **Tech adventures:** I enjoy diving deep into hardware and system configurations, like optimizing Hackintosh environments (Sonoma/Sequoia) to seamlessly compile and test iOS builds.
+- 🍎 **Tech adventures:** I enjoy diving deep into hardware and system configurations.
 - ⚡ **When I'm not coding:** You'll probably find me tracking my gym progress, optimizing my PC's performance, or jumping into a quick match of FIFA 26.
 - 📫 **How to reach me:** [karim.khater.dev@gmail.com](mailto:karim.khater.dev@gmail.com)
 
